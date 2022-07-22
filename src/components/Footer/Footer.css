@@ -1,0 +1,50 @@
+.discordbotton_ {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-position: center center;
+  background-color: #ffffff00;
+  background-image: url('Discord_icon1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.twitterbotton_ {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('twitter_1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.instagrambotton1_ {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('instagram1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+.openseabotton_ {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('youtube1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+span_ {
+  width: 50px;
+  height: 50px;
+  background: black;
+}
